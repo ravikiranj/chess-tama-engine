@@ -1,0 +1,6 @@
+[package]
+name = "chess-tama-engine"
+version = "0.1.0"
+authors = ["Ravikiran Janardhana <ravikiran.j.127@gmail.com>"]
+
+[dependencies]
