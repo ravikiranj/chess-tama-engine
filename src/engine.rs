@@ -1,11 +1,11 @@
 pub struct Board {
-    name: String
+    name: String,
 }
 
 impl Board {
     pub fn new(name: &str) -> Board {
         Board {
-            name: String::from(name)
+            name: String::from(name),
         }
     }
 
